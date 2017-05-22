@@ -27,7 +27,7 @@
 			hash			: { use : false },
 			mouse			: { clickSelects : false },
 			keyboard		: { use : false },
-			animation		: { transitionDuration : '1s' }
+			animation		: { transitionDuration : '41s' }
 		},
 		// for this specific plugin we will have the following options:
 		// shows/hides navigation arrows
